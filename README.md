@@ -26,6 +26,12 @@ Assessment 2 is to identify useful insight to benefit different industries: Onli
   - Identify the top 5 rules and interpret them
   - Identify top 5 common items that customers have purchased along with a specific item
   - Perform sequence analysis
-  - Justify how the use of outcome can benefit the decision makers
+  - Justify how the use of outcome can benefit the decision makers.
 * Project (b) Applying Clustering to COVID-19 Epidemiological Data
-  - 
+  - Identify the required pre-processes before building the clustering model
+  - Build a clustering model to profile the characteristics of countries
+  - Explain what clustering algorithm is used
+  - List the attributes used in the analysis
+  - Identify the optimal number of identifed clusters and explain how the number is reached. Three approches are used, one is to minimize the intra-cluster distance while maximize the inter-cluster distances using March and April data. Next approch is utlizing the elbow method as it offers the graph that shows how K affect the clustering error. The thrid approch is to calculate silhouette score to compare the similarity of an object to its own cluster to that of other clusters. And finally, pairplots is used to see the distribution to identify the pattern of each group depending on attributes.
+  - Decide if normalization is require in this project.
+
