@@ -28,4 +28,4 @@ Assessment 2 is to identify useful insight to benefit different industries: Onli
   - Perform sequence analysis
   - Justify how the use of outcome can benefit the decision makers
 * Project (b) Applying Clustering to COVID-19 Epidemiological Data
-  -
+  - 
